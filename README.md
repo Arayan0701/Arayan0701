@@ -10,7 +10,6 @@
 - 🧠 Strong foundation in **PHP, WordPress, JavaScript, HTML, CSS**
 - 🔧 Experience with **MVC projects, React basics, MySQL**
 - 🌱 Currently improving **WordPress Core, Plugins & Open-Source Contributions**
-- 🎯 Target Company: **rtCamp (Associate WordPress Engineer)**
 
 ---
 
