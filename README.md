@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaryan Savaliya</h1>
-<h3 align="center">Software Developer | PHP | WordPress | JavaScript</h3>
+<h3 align="center">Software Developer | PHP | Laravel | UI-UX | JavaScript</h3>
 
 ---
 
